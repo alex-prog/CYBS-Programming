@@ -1,6 +1,6 @@
 {
   "feed_name": "CyberThreat Intelligence Feed",
-  "generated_at": "2025-09-16T08:00:00Z",
+  "generated_at": "2026-03-09T08:00:00Z",
   "source": "Security Operations Center",
   "indicators": [
     {
@@ -10,7 +10,7 @@
       "severity": "high",
       "confidence": 95,
       "description": "Known botnet command and control server",
-      "last_seen": "2025-09-15T14:30:00Z",
+      "last_seen": "2026-03-08T14:30:00Z",
       "tags": ["malware", "botnet", "c2"]
     },
     {
@@ -20,7 +20,7 @@
       "severity": "high",
       "confidence": 88,
       "description": "Domain hosting malicious payloads",
-      "last_seen": "2025-09-16T09:15:00Z",
+      "last_seen": "2026-03-09T09:15:00Z",
       "tags": ["malware", "phishing"]
     },
     {
@@ -30,7 +30,7 @@
       "severity": "medium",
       "confidence": 75,
       "description": "Suspicious scanning activity detected",
-      "last_seen": "2025-09-14T16:22:00Z",
+      "last_seen": "2026-03-07T16:22:00Z",
       "tags": ["scanning", "reconnaissance"]
     },
     {
@@ -40,7 +40,7 @@
       "severity": "high",
       "confidence": 92,
       "description": "SHA256 hash of known trojan executable",
-      "last_seen": "2025-09-15T11:45:00Z",
+      "last_seen": "2026-03-08T11:45:00Z",
       "tags": ["trojan", "malware"]
     },
     {
@@ -50,7 +50,7 @@
       "severity": "low",
       "confidence": 60,
       "description": "Domain with suspicious DNS patterns",
-      "last_seen": "2025-09-13T08:30:00Z",
+      "last_seen": "2026-03-06T08:30:00Z",
       "tags": ["suspicious", "dns"]
     },
     {
@@ -60,7 +60,7 @@
       "severity": "high",
       "confidence": 97,
       "description": "Compromised internal host spreading ransomware",
-      "last_seen": "2025-09-16T07:45:00Z",
+      "last_seen": "2026-03-09T07:45:00Z",
       "tags": ["ransomware", "internal", "compromised"]
     },
     {
@@ -70,7 +70,7 @@
       "severity": "medium",
       "confidence": 82,
       "description": "Phishing site mimicking banking portal",
-      "last_seen": "2025-09-15T20:12:00Z",
+      "last_seen": "2026-03-08T20:12:00Z",
       "tags": ["phishing", "banking", "social-engineering"]
     },
     {
@@ -80,7 +80,7 @@
       "severity": "high",
       "confidence": 89,
       "description": "SHA1 hash of cryptocurrency mining malware",
-      "last_seen": "2025-09-14T13:28:00Z",
+      "last_seen": "2026-03-07T13:28:00Z",
       "tags": ["cryptominer", "malware"]
     },
     {
@@ -90,7 +90,7 @@
       "severity": "low",
       "confidence": 55,
       "description": "IP with minor policy violations",
-      "last_seen": "2025-09-12T10:15:00Z",
+      "last_seen": "2026-03-05T10:15:00Z",
       "tags": ["policy-violation", "monitoring"]
     },
     {
@@ -100,7 +100,7 @@
       "severity": "high",
       "confidence": 94,
       "description": "Domain used for data exfiltration activities",
-      "last_seen": "2025-09-16T06:30:00Z",
+      "last_seen": "2026-03-09T06:30:00Z",
       "tags": ["data-exfiltration", "apt", "stealer"]
     }
   ]
